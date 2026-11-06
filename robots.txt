@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mohammedmunnacpi-code.github.io/mohammed-munna-engineering-portfolio/sitemap.xml
